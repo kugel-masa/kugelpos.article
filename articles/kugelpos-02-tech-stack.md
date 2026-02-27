@@ -1,5 +1,5 @@
 ---
-title: "FastAPI + MongoDB + Dapr でPOSシステムを設計した理由"
+title: "【第2回/全4回】FastAPI + MongoDB + Dapr でPOSシステムを設計した理由"
 emoji: "⚙️"
 type: "tech"
 topics: ["POS", "FastAPI", "MongoDB", "Dapr", "AI駆動開発"]
