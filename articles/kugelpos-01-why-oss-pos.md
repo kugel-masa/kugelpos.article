@@ -1,7 +1,7 @@
 ---
 title: "【第1回/全4回】なぜ個人でオープンソースPOSシステムを作ったのか"
 emoji: "🛒"
-type: "tech"
+type: "idea"
 topics: ["POS", "OSS", "個人開発", "AI駆動開発", "マイクロサービス"]
 published: true
 ---
