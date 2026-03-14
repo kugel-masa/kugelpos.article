@@ -8,10 +8,6 @@ published: true
 
 ![](/images/kugelpos-dapr-05/slide-1.png)
 
-:::message
-この記事の内容は動画でもご覧いただけます。
-:::
-
 ## はじめに
 
 これまでの連載で、Service Invocation（泣きどころ①）、Pub/Sub（泣きどころ②）、State Store（泣きどころ③）というマイクロサービスの課題を解決する3つの仕組みを紹介してきました。しかし、これらの仕組み自体に障害が起きたらどうなるでしょうか。

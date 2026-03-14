@@ -8,10 +8,6 @@ published: true
 
 ![](/images/kugelpos-dapr-01/slide-1.png)
 
-:::message
-この記事の内容は動画でもご覧いただけます。
-:::
-
 ## はじめに
 
 ![](/images/kugelpos-dapr-01/slide-2.png)

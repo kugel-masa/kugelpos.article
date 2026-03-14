@@ -8,10 +8,6 @@ published: true
 
 ![](/images/kugelpos-dapr-03/slide-1.png)
 
-:::message
-この記事の内容は動画でもご覧いただけます。
-:::
-
 ## はじめに
 
 前回はService Invocationによるサービス間通信を取り上げ、**泣きどころ①「通信の複雑さ」**を解決しました。Service Invocationは「AがBにリクエストを送り、応答を待つ」という同期的な通信です。多くの場面ではこれで十分ですが、POSシステムには同期通信では解決できない課題があります。
